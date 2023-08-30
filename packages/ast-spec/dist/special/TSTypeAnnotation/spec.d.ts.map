@@ -1,0 +1,1 @@
+{"version":3,"file":"spec.d.ts","sourceRoot":"","sources":["../../../src/special/TSTypeAnnotation/spec.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,sBAAsB,CAAC;AAC3D,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,qBAAqB,CAAC;AACpD,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,uBAAuB,CAAC;AAEtD,MAAM,WAAW,gBAAiB,SAAQ,QAAQ;IAChD,IAAI,EAAE,cAAc,CAAC,gBAAgB,CAAC;IACtC,cAAc,EAAE,QAAQ,CAAC;CAC1B"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"spec.d.ts","sourceRoot":"","sources":["../../../src/jsx/JSXText/spec.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,sBAAsB,CAAC;AAC3D,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,qBAAqB,CAAC;AAEpD,MAAM,WAAW,OAAQ,SAAQ,QAAQ;IACvC,IAAI,EAAE,cAAc,CAAC,OAAO,CAAC;IAC7B,KAAK,EAAE,MAAM,CAAC;IACd,GAAG,EAAE,MAAM,CAAC;CACb"}

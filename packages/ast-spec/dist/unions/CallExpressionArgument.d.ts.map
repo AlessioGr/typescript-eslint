@@ -1,0 +1,1 @@
+{"version":3,"file":"CallExpressionArgument.d.ts","sourceRoot":"","sources":["../../src/unions/CallExpressionArgument.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,+BAA+B,CAAC;AACnE,OAAO,KAAK,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAE/C,MAAM,MAAM,sBAAsB,GAAG,UAAU,GAAG,aAAa,CAAC"}

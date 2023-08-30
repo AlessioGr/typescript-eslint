@@ -1,0 +1,1 @@
+{"version":3,"file":"spec.d.ts","sourceRoot":"","sources":["../../../src/special/Decorator/spec.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,sBAAsB,CAAC;AAC3D,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,qBAAqB,CAAC;AACpD,OAAO,KAAK,EAAE,sBAAsB,EAAE,MAAM,qCAAqC,CAAC;AAElF,MAAM,WAAW,SAAU,SAAQ,QAAQ;IACzC,IAAI,EAAE,cAAc,CAAC,SAAS,CAAC;IAC/B,UAAU,EAAE,sBAAsB,CAAC;CACpC"}

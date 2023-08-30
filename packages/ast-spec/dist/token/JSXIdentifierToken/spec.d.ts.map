@@ -1,0 +1,1 @@
+{"version":3,"file":"spec.d.ts","sourceRoot":"","sources":["../../../src/token/JSXIdentifierToken/spec.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,uBAAuB,CAAC;AAC7D,OAAO,KAAK,EAAE,SAAS,EAAE,MAAM,sBAAsB,CAAC;AAEtD,MAAM,WAAW,kBAAmB,SAAQ,SAAS;IACnD,IAAI,EAAE,eAAe,CAAC,aAAa,CAAC;CACrC"}

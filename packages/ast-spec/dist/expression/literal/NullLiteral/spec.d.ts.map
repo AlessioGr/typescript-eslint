@@ -1,0 +1,1 @@
+{"version":3,"file":"spec.d.ts","sourceRoot":"","sources":["../../../../src/expression/literal/NullLiteral/spec.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,2BAA2B,CAAC;AAE7D,MAAM,WAAW,WAAY,SAAQ,WAAW;IAC9C,KAAK,EAAE,IAAI,CAAC;IACZ,GAAG,EAAE,MAAM,CAAC;CACb"}

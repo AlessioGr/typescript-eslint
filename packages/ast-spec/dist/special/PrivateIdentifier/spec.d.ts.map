@@ -1,0 +1,1 @@
+{"version":3,"file":"spec.d.ts","sourceRoot":"","sources":["../../../src/special/PrivateIdentifier/spec.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,sBAAsB,CAAC;AAC3D,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,qBAAqB,CAAC;AAEpD,MAAM,WAAW,iBAAkB,SAAQ,QAAQ;IACjD,IAAI,EAAE,cAAc,CAAC,iBAAiB,CAAC;IACvC,IAAI,EAAE,MAAM,CAAC;CACd"}

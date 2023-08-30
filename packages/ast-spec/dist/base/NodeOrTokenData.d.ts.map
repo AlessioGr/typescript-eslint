@@ -1,0 +1,1 @@
+{"version":3,"file":"NodeOrTokenData.d.ts","sourceRoot":"","sources":["../../src/base/NodeOrTokenData.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,KAAK,EAAE,MAAM,SAAS,CAAC;AACrC,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,kBAAkB,CAAC;AAEvD,MAAM,WAAW,eAAe;IAC9B;;;;;;OAMG;IACH,GAAG,EAAE,cAAc,CAAC;IAEpB;;OAEG;IACH,KAAK,EAAE,KAAK,CAAC;IAEb,IAAI,EAAE,MAAM,CAAC;CACd"}

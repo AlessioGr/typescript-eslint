@@ -1,0 +1,1 @@
+{"version":3,"file":"JSXTagNameExpression.d.ts","sourceRoot":"","sources":["../../src/unions/JSXTagNameExpression.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,2BAA2B,CAAC;AAC/D,OAAO,KAAK,EAAE,mBAAmB,EAAE,MAAM,iCAAiC,CAAC;AAC3E,OAAO,KAAK,EAAE,iBAAiB,EAAE,MAAM,+BAA+B,CAAC;AAEvE,MAAM,MAAM,oBAAoB,GAC5B,aAAa,GACb,mBAAmB,GACnB,iBAAiB,CAAC"}

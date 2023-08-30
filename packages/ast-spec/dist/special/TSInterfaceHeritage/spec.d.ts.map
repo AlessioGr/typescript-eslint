@@ -1,0 +1,1 @@
+{"version":3,"file":"spec.d.ts","sourceRoot":"","sources":["../../../src/special/TSInterfaceHeritage/spec.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,sBAAsB,CAAC;AAC3D,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,2BAA2B,CAAC;AAEhE,MAAM,WAAW,mBAAoB,SAAQ,cAAc;IACzD,IAAI,EAAE,cAAc,CAAC,mBAAmB,CAAC;CAC1C"}

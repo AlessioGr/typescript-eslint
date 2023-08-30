@@ -1,0 +1,1 @@
+{"version":3,"file":"spec.d.ts","sourceRoot":"","sources":["../../../src/token/StringToken/spec.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,uBAAuB,CAAC;AAC7D,OAAO,KAAK,EAAE,SAAS,EAAE,MAAM,sBAAsB,CAAC;AAEtD,MAAM,WAAW,WAAY,SAAQ,SAAS;IAC5C,IAAI,EAAE,eAAe,CAAC,MAAM,CAAC;CAC9B"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"createRule.js","sourceRoot":"","sources":["../../src/util/createRule.ts"],"names":[],"mappings":";;;AAAA,oDAAuD;AAEvD,sHAAsH;AACtH,mEAAmE;AACnE,MAAM,EAAE,OAAO,EAAE,GAAwB,OAAO,CAAC,oBAAoB,CAAC,CAAC;AAEvE,MAAM,UAAU,GAAG,mBAAW,CAAC,WAAW,CACxC,IAAI,CAAC,EAAE,CACL,gEAAgE,OAAO,8CAA8C,IAAI,KAAK,CACjI,CAAC;AAEO,gCAAU"}

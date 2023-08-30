@@ -1,0 +1,1 @@
+{"version":3,"file":"spec.d.ts","sourceRoot":"","sources":["../../../../src/expression/literal/RegExpLiteral/spec.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,2BAA2B,CAAC;AAE7D,MAAM,WAAW,aAAc,SAAQ,WAAW;IAChD,KAAK,EAAE,MAAM,GAAG,IAAI,CAAC;IACrB,KAAK,EAAE;QACL,OAAO,EAAE,MAAM,CAAC;QAChB,KAAK,EAAE,MAAM,CAAC;KACf,CAAC;CACH"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"getCommentLines.js","sourceRoot":"","sources":["../src/getCommentLines.ts"],"names":[],"mappings":";;;AAEA,SAAgB,eAAe,CAAC,MAAmB;IACjD,MAAM,KAAK,GAAa,EAAE,CAAC;IAC3B,IAAI,MAAM,CAAC,WAAW,EAAE;QACtB,KAAK,CAAC,IAAI,CAAC,MAAM,CAAC,WAAW,CAAC,CAAC;KAChC;IACD,OAAO,KAAK,CAAC;AACf,CAAC;AAND,0CAMC"}

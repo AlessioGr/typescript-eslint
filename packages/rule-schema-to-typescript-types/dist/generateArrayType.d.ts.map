@@ -1,0 +1,1 @@
+{"version":3,"file":"generateArrayType.d.ts","sourceRoot":"","sources":["../src/generateArrayType.ts"],"names":[],"mappings":"AACA,OAAO,KAAK,EAEV,sBAAsB,EACvB,MAAM,sCAAsC,CAAC;AAK9C,OAAO,KAAK,EAAE,QAAQ,EAAO,MAAM,EAAE,QAAQ,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAQzE,wBAAgB,iBAAiB,CAC/B,MAAM,EAAE,sBAAsB,EAC9B,MAAM,EAAE,MAAM,GACb,QAAQ,GAAG,QAAQ,GAAG,QAAQ,CA8HhC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"ImportClause.d.ts","sourceRoot":"","sources":["../../src/unions/ImportClause.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,sBAAsB,EAAE,MAAM,wCAAwC,CAAC;AACrF,OAAO,KAAK,EAAE,wBAAwB,EAAE,MAAM,0CAA0C,CAAC;AACzF,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,iCAAiC,CAAC;AAEvE,MAAM,MAAM,YAAY,GACpB,sBAAsB,GACtB,wBAAwB,GACxB,eAAe,CAAC"}

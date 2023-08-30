@@ -1,0 +1,1 @@
+{"version":3,"file":"spec.d.ts","sourceRoot":"","sources":["../../../src/jsx/JSXSpreadAttribute/spec.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,sBAAsB,CAAC;AAC3D,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,qBAAqB,CAAC;AACpD,OAAO,KAAK,EAAE,UAAU,EAAE,MAAM,yBAAyB,CAAC;AAE1D,MAAM,WAAW,kBAAmB,SAAQ,QAAQ;IAClD,IAAI,EAAE,cAAc,CAAC,kBAAkB,CAAC;IACxC,QAAQ,EAAE,UAAU,CAAC;CACtB"}

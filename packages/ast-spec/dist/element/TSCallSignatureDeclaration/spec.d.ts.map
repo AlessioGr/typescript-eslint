@@ -1,0 +1,1 @@
+{"version":3,"file":"spec.d.ts","sourceRoot":"","sources":["../../../src/element/TSCallSignatureDeclaration/spec.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,sBAAsB,CAAC;AAC3D,OAAO,KAAK,EAAE,uBAAuB,EAAE,MAAM,oCAAoC,CAAC;AAElF,MAAM,WAAW,0BAA2B,SAAQ,uBAAuB;IACzE,IAAI,EAAE,cAAc,CAAC,0BAA0B,CAAC;CACjD"}

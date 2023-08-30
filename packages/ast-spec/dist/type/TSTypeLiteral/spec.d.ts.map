@@ -1,0 +1,1 @@
+{"version":3,"file":"spec.d.ts","sourceRoot":"","sources":["../../../src/type/TSTypeLiteral/spec.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,sBAAsB,CAAC;AAC3D,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,qBAAqB,CAAC;AACpD,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,0BAA0B,CAAC;AAE5D,MAAM,WAAW,aAAc,SAAQ,QAAQ;IAC7C,IAAI,EAAE,cAAc,CAAC,aAAa,CAAC;IACnC,OAAO,EAAE,WAAW,EAAE,CAAC;CACxB"}

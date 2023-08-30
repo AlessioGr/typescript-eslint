@@ -1,0 +1,1 @@
+{"version":3,"file":"BaseNode.d.ts","sourceRoot":"","sources":["../../src/base/BaseNode.ts"],"names":[],"mappings":"AACA,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,mBAAmB,CAAC;AACxD,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAC;AAEzD,MAAM,WAAW,QAAS,SAAQ,eAAe;IAC/C,IAAI,EAAE,cAAc,CAAC;CAStB"}

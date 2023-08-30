@@ -1,0 +1,1 @@
+{"version":3,"file":"generateUnionType.d.ts","sourceRoot":"","sources":["../src/generateUnionType.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EACV,WAAW,EACX,eAAe,EAChB,MAAM,sCAAsC,CAAC;AAI9C,OAAO,KAAK,EAAO,MAAM,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAErD,wBAAgB,iBAAiB,CAC/B,OAAO,EAAE,CAAC,WAAW,GAAG,eAAe,CAAC,EAAE,EAC1C,MAAM,EAAE,MAAM,GACb,QAAQ,CAwCV"}
